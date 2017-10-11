@@ -11,6 +11,9 @@
 			cursor:move;
 			position:absolute;
 		}
+		img{
+			border-radius:200px;
+		}
 	</style>
 	<script src="jquery.js"></script>
 </head>
